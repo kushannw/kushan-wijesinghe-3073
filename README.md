@@ -1,2 +1,2 @@
-# kushan-wijesinghe-3073
+# Easy Bank
 Kushan Wijesinghe 3073
