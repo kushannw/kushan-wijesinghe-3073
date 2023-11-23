@@ -41,10 +41,3 @@ Easy Bank aims to revolutionize banking services by providing a user-friendly, s
 
 • Security: Implement SSL encryption, two-factor authentication, and data encryption techniques
 
-**Technology Stack**
-
-• Frontend: React Native for cross-platform mobile development.
-
-• Backend: Node.js for server-side logic and MongoDB for database management.
-
-• Security: Implement SSL encryption, two-factor authentication, and data encryption techniques
